@@ -37,11 +37,3 @@ A special thanks to our teachers and mentors at Loulé Secondary School, whose g
 Feel free to visit our website and explore the world of sound electronics. [Click here to access SoundWave](https://soundwave.esl12zi.website/).
 
 ---
-
-
-
-
-
----
-
-Feel free to check out our website and explore the world of sound electronics tailored to your needs!
