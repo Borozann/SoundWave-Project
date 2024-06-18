@@ -1,5 +1,5 @@
 # SoundWave-Project
-## Made by @Borozann & @SRamoras
+## Made by [@Borozann](https://github.com/Borozann) & [@SRamoras](https://github.com/SRamoras)
 
 Text that is not a quote
 
