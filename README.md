@@ -27,7 +27,8 @@ Our goal was to design a dynamic, pleasant, and intuitive website. We wanted to 
 - Backend (PHP)
 - Database Technology (MySQL)
 
-> "With SoundWave, we've not only built a platform but also a gateway into the future of e-commerce for audio electronics."
+>  "SoundWave represents the culmination of our academic journey, showcasing our ability to translate classroom knowledge into a fully functional e-commerce platform for audio electronics."
+
 
 ## Acknowledgements
 A special thanks to our teachers and mentors at Loulé Secondary School, whose guidance was invaluable in the successful completion of this project.
