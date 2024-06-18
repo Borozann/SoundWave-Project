@@ -1,4 +1,4 @@
-# SoundWave-Project
+# SoundWave Project
 
 ## Overview
 Developed over the span of seven months, **SoundWave** is a cutting-edge e-commerce platform focused on audio electronics. This project showcases the extensive skills and knowledge we acquired during our final year at Loulé Secondary School, serving as our "Professional Aptitude Test" (PAP).
