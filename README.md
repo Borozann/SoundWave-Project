@@ -34,7 +34,12 @@ Our goal was to design a dynamic, pleasant, and intuitive website. We wanted to 
 A special thanks to our teachers and mentors at Loulé Secondary School, whose guidance was invaluable in the successful completion of this project.
 
 ## Future Plans
-As of now, there are no plans to continue developing the SoundWave website. This project served as an invaluable learning experience and a successful demonstration of our capabilities during our final year of education.
+Feel free to visit our website and explore the world of sound electronics. [Click here to access SoundWave](https://soundwave.esl12zi.website/).
+
+---
+
+
+
 
 
 ---
