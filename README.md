@@ -4,20 +4,20 @@
 Developed over the span of seven months, **SoundWave** is a cutting-edge e-commerce platform focused on audio electronics. This project showcases the extensive skills and knowledge we acquired during our final year at Loulé Secondary School, serving as our "Professional Aptitude Test" (PAP).
 
 ## Team Members
-- [Borozann](https://github.com/Borozann)
-- [SRamoras](https://github.com/SRamoras)
+- [Borozann](https://github.com/Borozann) 👨‍💻
+- [SRamoras](https://github.com/SRamoras) 👩‍💻
 
 ## Project Timeline
-- **Start Date**: September 2023
-- **Launch Date**: April 2024
-- **Last Update**: May 2024
+| Event           | Date          |
+|-----------------|---------------|
+| Start Date      | September 2023|
+| Launch Date     | April 2024    |
+| Last Update     | May 2024      |
 
 ## Mission
 Our goal was to design a dynamic, pleasant, and intuitive website. We wanted to ensure that our customers enjoy a seamless shopping experience, complemented by a user-friendly interface and responsive design.
 
 ## Features
-- **Product Catalog**: Browse a wide range of high-quality sound electronics.
-- **Search and Filter**: Easily find products with robust search and filtering tools.
 - **User Accounts**: Personalized shopping experience with user account creation.
 - **Secure Checkout**: Fast and secure checkout process.
 
