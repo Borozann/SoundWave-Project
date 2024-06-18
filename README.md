@@ -24,8 +24,8 @@ Our goal was to design a dynamic, pleasant, and intuitive website. We wanted to 
 ## Technologies Used
 - HTML/CSS
 - JavaScript
-- Backend Framework (specify if it's Django, Flask, etc.)
-- Database Technology (specify MySQL, PostgreSQL, etc.)
+- Backend (PHP)
+- Database Technology (MySQL)
 
 > "With SoundWave, we've not only built a platform but also a gateway into the future of e-commerce for audio electronics."
 
